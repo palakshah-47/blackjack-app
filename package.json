@@ -2,7 +2,7 @@
   "name": "blackjack",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://palakshah-47.github.io/blackjack",
+  "homepage": "https://palakshah-47.github.io/game-app/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.16.5",
